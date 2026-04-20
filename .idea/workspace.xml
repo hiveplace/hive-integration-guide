@@ -1,119 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="38178057-3581-4a9f-b1fc-9f94a232abc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/android/documento/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/AndroidProjectSystem.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/appInsightsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/deviceManager.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/markdown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/INTEGRATION.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/androidTest/java/br/com/hive/app/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/java/br/com/hive/app/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/java/br/com/hive/app/ui/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/java/br/com/hive/app/ui/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/java/br/com/hive/app/ui/theme/Type.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/app/src/test/java/br/com/hive/app/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/gradle/gradle-daemon-jvm.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/gradle/libs.versions.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/documento/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/AndroidProjectSystem.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/appInsightsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/deviceManager.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/markdown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/INTEGRATION.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/androidTest/java/br/com/hive/app/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/java/br/com/hive/app/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/java/br/com/hive/app/ui/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/java/br/com/hive/app/ui/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/java/br/com/hive/app/ui/theme/Type.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/app/src/test/java/br/com/hive/app/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/gradle/gradle-daemon-jvm.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/gradle/libs.versions.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/face/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/documento/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/documento/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/face/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/face/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,29 +21,30 @@
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3CdInJAgt7ngFhlngNg2eqbCBkD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="38178057-3581-4a9f-b1fc-9f94a232abc3" name="Changes" comment="" />
